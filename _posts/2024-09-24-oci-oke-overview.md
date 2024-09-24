@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "오라클 클라우드(OCI) OKE 서비스 소개"
+title: "오라클 클라우드(OCI) OKE 서비스 소개 (테스트중....) "
 date: 2024-09-24
 categories:
  - OKE(OCI Kubernetes Engine)

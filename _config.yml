@@ -738,5 +738,6 @@ images: assets/images
 # Theme version
 version: 5.1.1
 
-#google drive url
-gdrive_url_prefix: "https://drive.google.com/uc?export=view&id="
+#google drive & github prefix
+gdrive_url_prefix: 'https://drive.google.com/thumbnail?sz=w1000&id='
+raw_github_url_prefix: 'https://raw.githubusercontent.com/seungwubaek/seungwubaek.github.io/master'

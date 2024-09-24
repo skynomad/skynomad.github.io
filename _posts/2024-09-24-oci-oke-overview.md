@@ -15,5 +15,7 @@ tags: [oci, oke, kubernetes]
 최근(2024년 9월) 새로운 이름으로 변경되었음
 * Oracle Container Engine for Kubernetes → [OCI Kubernetes Engine](https://docs.oracle.com/en-us/iaas/releasenotes/conteng/conteng-rename.htm,"oci-release")
 
+![테스트 이미지]({{ site.gdrive_url_prefix }}1-zlA3fojbi_Gj9CXkHKeZad3yD2ov-tT)
+
 ## 2\. OKE(OCI Kubernetes Engine) 이점
 ㅁㅁㅁ

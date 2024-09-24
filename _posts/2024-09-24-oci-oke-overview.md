@@ -17,7 +17,7 @@ Oracle Cloud Infrastructure Container Engine for Kubernetes(OKE)는 엔터프라
 
 ![TEST]({{ site.gdrive_url_prefix }}1-zlA3fojbi_Gj9CXkHKeZad3yD2ov-tT)
 
-<iframe width="50%" height="50%" src="https://www.youtube.com/embed/yEHlt75KmA8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yEHlt75KmA8" frameborder="0" allowfullscreen></iframe>
 
 ## 2\. OKE(OCI Kubernetes Engine) 이점
 ㅁㅁㅁ
